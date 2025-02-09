@@ -12,6 +12,8 @@
     "@next/font": "13.1.6",
     "@reduxjs/toolkit": "^1.9.3",
     "babel-preset-next": "^1.4.0",
+    "dot-env": "^0.0.1",
+    "env": "^0.0.2",
     "eslint": "8.34.0",
     "eslint-config-next": "13.1.6",
     "next": "^13.1.6",
